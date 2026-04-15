@@ -9,7 +9,7 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
-    """a를 b로 나눈 값을 반환합니다.
+    """a를 b로 나눈 값을 반환.
     b가 0이면 ValueError를 발생시킵니다.
     """
     if b == 0:
